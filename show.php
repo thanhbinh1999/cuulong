@@ -1,10 +1,1 @@
-<?php
- namespace Route;
- trait Route{
- 	private $link;
- 	public static function url($link){
- 		return $link();
- 	}
- }
-
- ?>
+<h3 class="trang">fefefefefefe</h3>
